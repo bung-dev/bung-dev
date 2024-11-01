@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/f339d5b1-a796-45c9-9620-e597c0396151" height="60%"/>
 </div>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h2>📚Teck Stacks</h2></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -16,8 +16,6 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div align=center><h1>📚 STACKS</h1></div>
-
-[![Bung GitHub stats](https://github-readme-stats.vercel.app/api?username=Bung)]
-
-<div></div>
+<div align=center><h2>🗨️Language</h2></div> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
