@@ -16,6 +16,3 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<div align=center><h1>🗨️Language</h1></div> 
-<div align=center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bung&layout=donut)]</div>
-</div>
