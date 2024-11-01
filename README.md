@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f339d5b1-a796-45c9-9620-e597c0396151"/>
+  <img src="https://github.com/user-attachments/assets/f339d5b1-a796-45c9-9620-e597c0396151" height="60%"/>
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
