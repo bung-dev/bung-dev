@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f339d5b1-a796-45c9-9620-e597c0396151"/>
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
