@@ -17,4 +17,4 @@
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bung-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bung)](https://github.com/anuraghazra/github-readme-stats)
