@@ -17,5 +17,5 @@
 </div>
 
 <div align=center><h1>🗨️Language</h1></div> 
-<div align=center>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bung-dev&layout=compact)</div>
+<div align=center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bung&layout=donut)]</div>
 </div>
