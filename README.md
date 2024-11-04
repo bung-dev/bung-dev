@@ -16,9 +16,12 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
-
+<div align=center><h1>📶GitHub Stats</h1></div>
+<div align=center>
+  
   ![Bung GitHub stats](https://github-readme-stats.vercel.app/api?username=bung-dev&show_icons=true&theme=radical)
 
+</div>
   
 
 
